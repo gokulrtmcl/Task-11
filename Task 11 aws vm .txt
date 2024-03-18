@@ -1,0 +1,25 @@
+STEPS TO CREATE VIRTUAL MACHINE ON AWS CLOUD
+
+1.Open AWS cloud and go to management console in order to create virtual machine
+
+2.Select root user and provide email address,captcha,and enter amazone account password.
+
+3.Now we can see console menu.
+   
+  Click on Launch virtual machine and select the operating system.
+
+4.Select the configuration of the system according to our purpose.
+  
+   Select number of instances ip and other network configurations
+
+   Select the preferred storage size
+
+   After all Select launch
+
+5.For additional security we create a key for connecting our virtual machine.
+
+6.So lets create new pair key by giving name and download it we need the downloaded key while connecting our virtual machine.
+
+7.Now our virtual machine is being deployed.now select home button and select ec2 . Click on instances we can see all our resource details.
+
+8.Note down public ip for connecting virtual machine to our system. 
